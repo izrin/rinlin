@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rinP17
+- 👋 Hi, I’m @serinlin
 - 👀 I’m interested in AR/VR based softwares
 - 🌱 I’m currently learning Python/C
 - 💞️ I’m looking to collaborate on ...
